@@ -1,0 +1,32 @@
+body {
+    font-family: Helvetica, sans-serif;
+    background: #FAFAFA;
+}
+
+.cabbage-ingr li::marker {
+    color: orange;
+}
+
+.tortilla-ingr li::marker {
+    color: orange;
+}
+
+.strip-ingr li::marker {
+    color: orange;
+}
+
+.salsa-ingr li::marker {
+    color: orange;
+}
+
+.finish li::marker {
+    color: orange;
+}
+
+.garnish li::marker {
+    color: orange;
+}
+
+.zuppa-ingr li::marker {
+    color: orange;
+}
